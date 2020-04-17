@@ -2,5 +2,5 @@
   "name": "typescript",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {"alasql": "github:Sage-ERP-X3/alasql#sage"}
+  "dependencies": {"alasql":"0.5.8"}
 }
